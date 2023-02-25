@@ -46,7 +46,7 @@ function Header() {
                       Ochrona planety i kieszeni
                     </h3>
                     <p className="services__modal-description">
-                      Gotuje przeważnie jakieś potrawy które wymyślam, mając do
+                      Gotuję przeważnie jakieś potrawy które wymyślam, mając do
                       wykorzystania jakiś produkt przeważnie żeby zapobiec jego
                       wyrzuceniu lub zepsuciu. Metoda "zero waste" ponieważ nie
                       lubię wyrzucać jedzenia i jestem w stanie przerobić
