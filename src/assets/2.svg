@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="272.81mm" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 21000 27281">
+ <defs>
+  <style type="text/css">
+    .fil4 {fill:#5B5B5B}
+    .fil5 {fill:#727271}
+    .fil0 {fill:#C5C6C6}
+    .fil2 {fill:#D9DADA}
+    .fil1 {fill:url(#c)}
+    .fil3 {fill:url(#d)}
+  </style>
+  <linearGradient id="c" x1="7578.2" x2="13422" y1="18866" y2="18866" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F7BFC0" offset="0"/>
+   <stop stop-color="#F5B2B6" offset=".87059"/>
+   <stop stop-color="#F2989D" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="4961.1" x2="16039" y1="11449" y2="11449" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#F7BFC0" offset="0"/>
+   <stop stop-color="#EBECEC" offset=".38039"/>
+   <stop stop-color="#F5B2B6" offset=".87059"/>
+   <stop stop-color="#F2989D" offset="1"/>
+  </linearGradient>
+ </defs>
+    <rect class="fil0" x="16968" y="19492" width="4032" height="7790"/>
+    <polygon class="fil0" points="0 19451 4032 19451 4032 27281 0 27281"/>
+   <rect class="fil1" x="7578" y="16003" width="5844" height="5727"/>
+   <polygon class="fil2" points="0 19451 3500 17639 7249 17639 10500 21496 13764 17639 17500 17639 21000 19451 17500 27281 14000 27281 10500 27281 7e3 27281 3500 27281"/>
+   <polygon class="fil0" points="10259 21211 10497 21493 4415 21493 7369 27281 7044 27281 4089 21493 4089 21211"/>
+   <path class="fil3" d="m10500 4286c3059 0 5539 1389 5539 5345s-2480 8981-5539 8981-5539-5025-5539-8981 2480-5345 5539-5345z"/>
+   <path class="fil4" d="m10500 3885c3085 0 5587 1389 5587 5345 0 662-71 1355-202 2048-653-2605-2816-3568-5385-3568s-4732 963-5385 3568c-131-693-202-1386-202-2048 0-3956 2502-5345 5587-5345z"/>
+   <path class="fil0" d="m15654 4861c840 1611 477 3673 477 4811 0 2051-1 161-3 242-1553-1125-3753-1716-5669-1716-614 0-1212 50-1787 146l-792 165c-1135 283-2159 747-3009 1347-2-61-2 1857-2-184 0-1134-363-3198 479-4811-1004-320-1731-1261-1731-2371 0-1375 1114-2490 2489-2490 952 0 1778 533 2197 1317 419-784 1246-1317 2197-1317s1778 533 2197 1317c419-784 1245-1317 2197-1317 1375 0 2489 1115 2489 2490 0 1110-726 2050-1729 2371z"/>
+   <circle class="fil0" cx="5381" cy="21986" r="251"/>
+   <path class="fil5" d="m15449 21848v1493h-330v-1493c-441-119-777-707-777-1415 0-794 422-1438 942-1438 521 0 943 644 943 1438 0 708-336 1296-778 1415z"/>
+   <rect class="fil0" x="13285" y="23200" width="3952" height="282"/>
+</svg>
