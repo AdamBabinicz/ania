@@ -47,9 +47,9 @@ function Header() {
                     </h3>
                     <p className="services__modal-description">
                       Gotuję przeważnie jakieś potrawy które wymyślam, mając do
-                      wykorzystania jakiś produkt przeważnie żeby zapobiec jego
-                      wyrzuceniu lub zepsuciu. Metoda "zero waste" ponieważ nie
-                      lubię wyrzucać jedzenia i jestem w stanie przerobić
+                      wykorzystania jakiś produkt przeważnie, żeby zapobiec jego
+                      wyrzuceniu lub zepsuciu. Metoda "zero waste", ponieważ nie
+                      lubię wyrzucać jedzenia i&nbsp;jestem w stanie przerobić
                       praktycznie wszystko.
                     </p>
                     <div className="services__modal-services">
