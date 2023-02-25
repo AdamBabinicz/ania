@@ -60,17 +60,24 @@ function About() {
                       onClick={() => toggleTab(0)}
                       className="uil uil-times services__modal-close"
                     ></i>
-                    <h3 className="services__modal-title">Robert Makłowicz</h3>
+                    <h3 className="services__modal-title">Opinie</h3>
                     <p className="services__modal-description">
-                      To, że dany region akurat w tym momencie dziejowym
-                      przynależy do jakiegoś państwa, nie przekreśla wiekowego
-                      formowania własnej, odrębnej kultury kulinarnej. Kuchnia
-                      narodowa to jest pomysł XX-wieczny. Może to niektórych
-                      zdziwić, ale po raz pierwszy terminu kuchnia włoska użył
-                      Benito Mussolini. Wtedy taka uniformizacja była związana z
-                      dążeniem autorytarnych reżimów do tego, żeby coś było
-                      narodowe, a tym samym lepsze od innych.
+                      Pracowita, kocha zwierzęta, zawsze pomocna, lubi gotować i
+                      próbować różne nowe potrawy, oszczędna, lubi ryzyko,
+                      sporty, siłownię, nie poddaje się. Lubi dzieci i ma do
+                      nich podejście. Skromna w ubiorze, nie lubi się malować,
+                      woli naturę.&nbsp;
+                      <b>
+                        <em>[Beata]</em>
+                      </b>
                     </p>
+                    <p className="services__modal-description">
+                      Bardzo dobrze gotuje. Jest miła, pracowita i skromna.
+                      <b>
+                        <em>[V.]</em>
+                      </b>
+                    </p>
+
                     <div className="services__modal-services">
                       <img src={img1} alt="..." />
                     </div>
