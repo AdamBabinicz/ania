@@ -78,10 +78,10 @@ h6 {
 .navbar__left-logo img {
   width: 110px;
 }
-/* .navbar__right {
+.navbar__right {
   display: flex;
   list-style-type: none;
-} */
+}
 .navbar__right li a {
   text-decoration: none;
   color: #000;
@@ -481,9 +481,9 @@ header {
   /* .show {
     transform: translateX(0);
   } */
-  .navbar__right li {
+  /* .navbar__right li {
     list-style-type: none;
-  }
+  } */
   .navbar__right li a {
     display: block;
     padding: 20px 0;

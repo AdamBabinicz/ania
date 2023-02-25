@@ -3,7 +3,7 @@ import { FaAlignJustify } from "react-icons/fa";
 
 function NavBar() {
   const [state, setState] = useState(true);
-  const [show, setShow] = useState(true);
+  // const [show, setShow] = useState(true);
 
   return (
     <nav className="navbar">
