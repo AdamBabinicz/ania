@@ -72,7 +72,8 @@ function About() {
                       </b>
                     </p>
                     <p className="services__modal-description">
-                      Bardzo dobrze gotuje. Jest miła, pracowita i skromna.
+                      Bardzo dobrze gotuje. Jest miła, pracowita i
+                      skromna.&nbsp;
                       <b>
                         <em>[V.]</em>
                       </b>
