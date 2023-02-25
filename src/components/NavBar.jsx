@@ -13,6 +13,8 @@ function NavBar() {
             </div>
           </ul>
           {state ? (
+            ""
+          ) : (
             <ul className="navbar__right">
               <li>
                 <a href="/#">Start</a>
@@ -33,8 +35,6 @@ function NavBar() {
                 <a href="#kontakt">Kontakt</a>
               </li>
             </ul>
-          ) : (
-            ""
           )}
         </div>
       </div>
