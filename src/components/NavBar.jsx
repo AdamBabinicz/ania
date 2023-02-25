@@ -3,6 +3,8 @@ import { FaAlignJustify } from "react-icons/fa";
 
 function NavBar() {
   const [state, setState] = useState(true);
+  const [show, setShow] = useState(true);
+
   return (
     <nav className="navbar">
       <div className="container">
@@ -13,8 +15,6 @@ function NavBar() {
             </div>
           </ul>
           {state ? (
-            ""
-          ) : (
             <ul className="navbar__right">
               <li>
                 <a href="/#">Start</a>
@@ -35,6 +35,8 @@ function NavBar() {
                 <a href="#kontakt">Kontakt</a>
               </li>
             </ul>
+          ) : (
+            ""
           )}
         </div>
       </div>

@@ -3,6 +3,8 @@
   align-items: center;
   justify-content: center;
 }
+.flexSB li {
+}
 .portfolio {
   position: relative;
   margin-top: 7rem;
@@ -16,6 +18,7 @@
   font-size: 17px;
   cursor: pointer;
   transition: 0.5s;
+  list-style-type: none;
 }
 .portfolio li:hover,
 .portfolio li.active {
@@ -75,8 +78,15 @@
   .flexSB {
     flex-wrap: wrap;
     margin-bottom: 1rem;
+    line-height: 2rem;
   }
   .portfolio img {
     height: auto;
+  }
+  .portfolio li:nth-child(1) {
+    margin-left: 0;
+  }
+  .portfolio li:nth-child(5) {
+    margin-left: 0;
   }
 }
