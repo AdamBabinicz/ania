@@ -83,10 +83,13 @@
   .portfolio img {
     height: auto;
   }
-  .portfolio li:nth-child(1) {
+  .portfolio li {
+    margin: 0 1rem;
+  }
+  /* .portfolio li:nth-child(1) {
     margin-left: 0;
   }
   .portfolio li:nth-child(5) {
     margin-left: 0;
-  }
+  } */
 }
