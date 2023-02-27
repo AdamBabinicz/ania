@@ -130,6 +130,7 @@ header {
 }
 .header-section p {
   font-size: 22px;
+  font-weight: bold;
   line-height: 33px;
   color: #7d7789;
   margin-bottom: 26px;
