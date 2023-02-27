@@ -494,7 +494,7 @@ header {
   }
   .header-section p {
     font-size: 20px;
-    font-weight: 300;
+    /* font-weight: 300; */
     line-height: 30px;
     margin-bottom: 50px;
   }
