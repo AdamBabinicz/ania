@@ -16,10 +16,10 @@ function Header() {
               <div className="header-section">
                 <h1>Ania,</h1>
                 <h2>nie z Zielonego Wzgórza</h2>
-                <p>
+                <span>
                   "Sprawia mi frajdę wyszukiwanie ciekawych ubrań w sklepach
                   typu Second-Hand."
-                </p>
+                </span>
                 <div className="header__buttons">
                   <a
                     href="#header"
