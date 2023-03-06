@@ -15,7 +15,7 @@ function NavBar() {
             </div>
           </ul>
           {state ? (
-            <ul className="navbar__right">
+            <ul className="navbar__right" onClick={() => setState(false)}>
               <li>
                 <a href="/#">Start</a>
               </li>
