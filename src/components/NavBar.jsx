@@ -3,7 +3,7 @@ import { FaAlignJustify } from "react-icons/fa";
 
 function NavBar() {
   const [state, setState] = useState(true);
-  // const [show, setShow] = useState(true);
+  const [isActive, setIsActive] = useState(false);
 
   return (
     <nav className="navbar">
@@ -15,7 +15,10 @@ function NavBar() {
             </div>
           </ul>
           {state ? (
-            <ul className="navbar__right" onClick={() => setState(false)}>
+            <ul
+              className="navbar__right desktop"
+              onClick={() => setState(false)}
+            >
               <li>
                 <a href="/#">Start</a>
               </li>
@@ -36,7 +39,29 @@ function NavBar() {
               </li>
             </ul>
           ) : (
-            ""
+            <ul
+              className="navbar__right mobile active"
+              onClick={() => setState(true)}
+            >
+              <li>
+                <a href="/#">Start</a>
+              </li>
+              <li>
+                <a href="#aktywność">Aktywność</a>
+              </li>
+              <li>
+                <a href="#o_sobie">O&nbsp;sobie</a>
+              </li>
+              <li>
+                <a href="#pasja">Pasja</a>
+              </li>
+              <li>
+                <a href="#hobby">Hobby</a>
+              </li>
+              <li>
+                <a href="#kontakt">Kontakt</a>
+              </li>
+            </ul>
           )}
         </div>
       </div>

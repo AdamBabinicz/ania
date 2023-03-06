@@ -83,6 +83,7 @@ h6 {
   display: flex;
   list-style-type: none;
 }
+
 .navbar__right li a {
   text-decoration: none;
   color: #000;
@@ -469,7 +470,7 @@ header {
   .col-4 {
     width: 100%;
   }
-  .navbar__right {
+  .navbar__right.mobile {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -478,6 +479,14 @@ header {
     position: fixed;
     top: 0;
     left: 0;
+    transform: translateY(-100%);
+    transition: all 1200ms cubic-bezier(0.3, 0.96, 0.59, 0.95);
+  }
+  .navbar__right.mobile.active {
+    transform: translateY(0);
+  }
+  .navbar__right.desktop {
+    display: none;
   }
   /* .navbar__right li {
     list-style-type: none;
