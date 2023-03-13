@@ -62,11 +62,11 @@ function About() {
                     ></i>
                     <h3 className="services__modal-title">Opinie</h3>
                     <p className="services__modal-description">
-                      Pracowita, kocha zwierzęta, zawsze pomocna, lubi gotować i
-                      próbować różne nowe potrawy, oszczędna, lubi ryzyko,
-                      sporty, siłownię, nie poddaje się. Lubi dzieci i ma do
-                      nich podejście. Skromna w ubiorze, nie lubi się malować,
-                      woli naturę.&nbsp;
+                      Pracowita, kocha zwierzęta, zawsze pomocna, lubi gotować
+                      i&nbsp; próbować różne nowe potrawy, oszczędna, lubi
+                      ryzyko, sporty, siłownię, nie poddaje się. Lubi dzieci
+                      i&nbsp;ma do nich podejście. Skromna w ubiorze, nie lubi
+                      się malować, woli naturę.&nbsp;
                       <b>
                         <em>[Beata]</em>
                       </b>
