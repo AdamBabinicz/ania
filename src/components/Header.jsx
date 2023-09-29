@@ -34,7 +34,7 @@ function Header() {
               </div>
             </div>
             <div className="col-6">
-              <img src="./image/4.png" alt="..." className="image" />
+              <img src="image/4.png" alt="..." className="image" />
             </div>
           </div>
         </div>
