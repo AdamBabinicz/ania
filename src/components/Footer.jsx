@@ -21,6 +21,7 @@ function Footer() {
                   href="https://www.facebook.com/profile.php?id=100009697066926"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label="Zobacz mój profil na Facebooku"
                 >
                   <FaFacebookF className="footerIcon" />
                 </a>
@@ -28,6 +29,7 @@ function Footer() {
                   href="https://twitter.com/?lang=pl"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label="Zobacz mój profil na Twitterze"
                 >
                   <FaTwitter className="footerIcon" />
                 </a>
@@ -35,6 +37,7 @@ function Footer() {
                   href="https://pl.pinterest.com"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label="Zobacz mój profil na Pintereście"
                 >
                   <FaPinterest className="footerIcon" />
                 </a>
@@ -42,6 +45,7 @@ function Footer() {
                   href="https://www.instagram.com"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label="Zobacz mój profil na Instagramie"
                 >
                   <FaInstagram className="footerIcon" />
                 </a>

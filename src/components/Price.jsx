@@ -67,6 +67,7 @@ function Price() {
                     className="btn btn-outline"
                     target="_blank"
                     rel="noopener noreferrer"
+                    aria-label="Otwórz link na stronę"
                   >
                     Start
                   </a>
